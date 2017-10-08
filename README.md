@@ -4,7 +4,7 @@ a handy tool for writers
 ### appellation
 (noun) the action of giving a name to a person or thing
 
-Appellation is a site intended for writers. Whether you’re trying to find the perfect rhyming word for the last line of your latest poem or the definition of “gabelle”, appellation’s here for you.
+Appellation is a site intended for writers. Whether you’re trying to find the perfect rhyming word for the last line of your latest poem or the definition of “aardvark”, appellation’s here for you.
 
 With the word you enter, appellation can:
 - find its definition
