@@ -19,4 +19,7 @@ appellation uses three APIs:
 - [the Wikipedia API](https://www.mediawiki.org/wiki/API:Main_page)
 - [the DataMuse API](https://www.datamuse.com/api/)
 
+
+[visit the site here](bfp226.nyuad.im/appellation/index.html)
+
 [read the full documentation here](https://docs.google.com/document/d/1BR6rGHfAs1B3OHCSffxh3BceEchdf75HaNpIYR2rwBo/edit)
