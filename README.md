@@ -17,6 +17,6 @@ appellation uses two APIs:
 - [the DataMuse API](https://www.datamuse.com/api/)
 
 
-visit the sitet [here](https://isabellaperalta.github.io/appellation/)
+visit the site [here](https://isabellaperalta.github.io/appellation/)
 
 read the full documentation [here](https://docs.google.com/document/d/1BR6rGHfAs1B3OHCSffxh3BceEchdf75HaNpIYR2rwBo/edit)
