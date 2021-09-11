@@ -16,4 +16,4 @@ appellation uses two APIs:
 
 visit the site [here](https://isabellaperalta.github.io/appellation/)
 
-made with ❤️ by [isabella peralta](https://isabellaperalta.com/)
+made with ❤️  by [isabella peralta](https://isabellaperalta.com/)
